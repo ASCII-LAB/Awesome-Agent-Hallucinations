@@ -13,7 +13,7 @@ Welcome to the **Awesome-Agent-Hallucinations** repository! This repository is a
 
 
 ## :star2:1 Reasoning Hallucinations
-
+* **LLM+Map: Bimanual Robot Task Planning Using Large Language Models And Planning Domain Definition Language** [![arXiv](https://img.shields.io/badge/arXiv-2025.03-red)](https://arxiv.org/abs/2503.17309) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/Kchu/LLM-MAP)
 
 
 
