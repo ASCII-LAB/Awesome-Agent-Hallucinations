@@ -1,5 +1,5 @@
-# Awesome-Agent-Hallucination
-Welcome to the **Awesome-Agent-Hallucination** repository! This repository is a library of works related to **Large Language Models (LLMs) based Agent Hallucination**. For a detailed introduction, please refer our survey paper:
+# Awesome-Agent-Hallucinations
+Welcome to the **Awesome-Agent-Hallucinations** repository! This repository is a library of works related to **Large Language Models (LLMs) based Agent Hallucinations**. For a detailed introduction, please refer our survey paper:
 
 :sparkles:**LLM-based Agents Suffer from Hallucinations: A Survey of Taxonomy, Methods, and Directions**:sparkles:
 
