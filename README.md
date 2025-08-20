@@ -16,6 +16,7 @@ Welcome to the **Awesome-Agent-Hallucinations** repository! This repository is a
 * **LLM+Map: Bimanual Robot Task Planning Using Large Language Models And Planning Domain Definition Language** [![arXiv](https://img.shields.io/badge/arXiv-2025.03-red)](https://arxiv.org/abs/2503.17309) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/Kchu/LLM-MAP)
 * **Large language models for planning: A comprehensive and systematic survey** [![arXiv](https://img.shields.io/badge/arXiv-2025.05-red)](https://arxiv.org/abs/2505.19683)
 * **Plan-then-execute: An empirical study of user trust and team performance when using llm agents as a daily assistant** [![CHI](https://img.shields.io/badge/CHI-2025-red)](https://dl.acm.org/doi/full/10.1145/3706598.3713218)
+* **Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents** [![CSUR](https://img.shields.io/badge/CSUR-2025-red)(https://dl.acm.org/doi/full/10.1145/3719341)
 
 
 
