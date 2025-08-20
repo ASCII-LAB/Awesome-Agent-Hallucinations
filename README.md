@@ -32,6 +32,7 @@ Welcome to the **Awesome-Agent-Hallucinations** repository! This repository is a
 * **Active Task Disambiguation with LLMs** [![ICLR](https://img.shields.io/badge/ICLR-2025-limegreen)](https://openreview.net/forum?id=JAMxRSXLFz)
 * **Conversational health agents: A personalized llm-powered agent framework** [![JAMIA](https://img.shields.io/badge/JAMIA-2025-limegreen)](https://arxiv.org/abs/2310.02374) [![Code](https://img.shields.io/badge/Code-GitHub-cornflowerblue)](https://github.com/Institute4FutureHealth/CHA)
 * **Opera: Alleviating hallucination in multi-modal large language models via over-trust penalty and retrospection-allocation** [![CVPR](https://img.shields.io/badge/CVPR-2024-limegreen)](https://arxiv.org/abs/2311.17911) [![Code](https://img.shields.io/badge/Code-GitHub-cornflowerblue)](https://github.com/shikiw/OPERA)
+* **Navigating the overkill in large language models** [![ACL](https://img.shields.io/badge/ACL-2024-limegreen)](https://aclanthology.org/2024.acl-long.253/)
 
 
 
