@@ -38,7 +38,7 @@ Welcome to the **Awesome-Agent-Hallucinations** repository! This repository is a
 * **Rag-kg-il: A multi-agent hybrid framework for reducing hallucinations and enhancing llm reasoning through rag and incremental knowledge graph learning integration**
 * **Large language models as commonsense knowledge for large-scale task planning**
 * **Knowagent: Knowledge-augmented planning for llm-based agents**
-* * **Text-image alignment for diffusion-based perception** [![CVPR]()]()
+* **Text-image alignment for diffusion-based perception** [![CVPR]()]()
 * **Vision-language model-based physical reasoning for robot liquid perception** [![IROS]()]()
 * **VECSR: Virtually Embodied Common Sense Reasoning System**
 * 
