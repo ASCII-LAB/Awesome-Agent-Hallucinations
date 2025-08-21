@@ -33,6 +33,25 @@ Welcome to the **Awesome-Agent-Hallucinations** repository! This repository is a
 * **Conversational health agents: A personalized llm-powered agent framework** [![JAMIA](https://img.shields.io/badge/JAMIA-2025-limegreen)](https://arxiv.org/abs/2310.02374) [![Code](https://img.shields.io/badge/Code-GitHub-cornflowerblue)](https://github.com/Institute4FutureHealth/CHA)
 * **Opera: Alleviating hallucination in multi-modal large language models via over-trust penalty and retrospection-allocation** [![CVPR](https://img.shields.io/badge/CVPR-2024-limegreen)](https://arxiv.org/abs/2311.17911) [![Code](https://img.shields.io/badge/Code-GitHub-cornflowerblue)](https://github.com/shikiw/OPERA)
 * **Navigating the overkill in large language models** [![ACL](https://img.shields.io/badge/ACL-2024-limegreen)](https://aclanthology.org/2024.acl-long.253/)
+* **Mitigating Hallucinations in Multimodal Spatial Relations through Constraint-Aware Prompting** [![NAACL](https://img.shields.io/badge/NAACL-2025-limegreen)](https://arxiv.org/abs/2502.08317v1)
+* **BeamAggR: Beam Aggregation Reasoning over Multi-source Knowledge for Multi-hop Question Answering**
+* **Rag-kg-il: A multi-agent hybrid framework for reducing hallucinations and enhancing llm reasoning through rag and incremental knowledge graph learning integration**
+* **Large language models as commonsense knowledge for large-scale task planning**
+* **Knowagent: Knowledge-augmented planning for llm-based agents**
+* * **Text-image alignment for diffusion-based perception** [![CVPR]()]()
+* **Vision-language model-based physical reasoning for robot liquid perception** [![IROS]()]()
+* **VECSR: Virtually Embodied Common Sense Reasoning System**
+* 
+* **Ferret: Refer and ground anything anywhere at any granularity**
+* **A survey of large language models**
+* **MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents**
+* **RbFT: Robust Fine-tuning for Retrieval-Augmented Generation against Retrieval Defects**
+* **AgentDropout: Dynamic Agent Elimination for Token-Efficient and High-Performance LLM-Based Multi-Agent Collaboration**
+* **Large language models as commonsense knowledge for large-scale task planning** [![NeurIPS]()]()
+* **Focus on your question! interpreting and mitigating toxic cot problems in commonsense reasoning**
+* **Knowledge Verification to Nip Hallucination in the Bud** [![EMNLP]()]()
+* **MIRIX: Multi-Agent Memory System for LLM-Based Agents**
+* **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs**
 
 
 
