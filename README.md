@@ -70,7 +70,11 @@ Welcome to the **Awesome-Agent-Hallucinations** repository! This repository is a
 * **Focus on your question! interpreting and mitigating toxic cot problems in commonsense reasoning**
 * **WorldEval: World Model as Real-World Robot Policies Evaluator**
 * **Introspective Planning: Aligning Robots’ Uncertainty with Inherent Task Ambiguity**
-
+* **We‘re Afraid Language Models Aren‘t Modeling Ambiguity**
+* **A Survey: Learning Embodied Intelligence from Physical Simulators and World Models**
+* **The flan collection: Designing data and methods for effective instruction tuning**
+* **Mars-PO: Multi-Agent Reasoning System Preference Optimization**
+* **Reasoning on graphs: Faithful and interpretable large language model reasoning**
 
 
 ## :star2:2 Execution Hallucinations
@@ -95,6 +99,10 @@ Welcome to the **Awesome-Agent-Hallucinations** repository! This repository is a
 * **GenTool: Enhancing Tool Generalization in Language Models through Zero-to-One and Weak-to-Strong Simulation**
 * **Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models**
 * **An llm compiler for parallel function calling**
+* **ControlLLM: Augment Language Models with Tools by Searching on Graphs**
+* **OctoTools: An Agentic Framework with Extensible Tools for Complex Reasoning**
+* **Graph RAG-Tool Fusion**
+* **ScaleMCP: Dynamic and Auto-Synchronizing Model Context Protocol Tools for LLM Agents**
 
 ## :star2:3 Perception Hallucinations
 * **Comparative Analysis of AI Agent Architectures for Entity Relationship Classification**
@@ -117,6 +125,7 @@ Welcome to the **Awesome-Agent-Hallucinations** repository! This repository is a
 * **Text-image alignment for diffusion-based perception**
 * **Vision-language model-based physical reasoning for robot liquid perception**
 * **Large language model agent for fake news detection**
+* **Beyond Bare Queries: Open-Vocabulary Object Grounding with 3D Scene Graph**
 
 ## :star2:4 Memorization Hallucinations
 * **Knowledge unlearning for llms: Tasks, methods, and challenges** [![CoRR](https://img.shields.io/badge/CoRR-2023-limegreen)](https://openreview.net/forum?id=PvwM8Ehrmm)
@@ -165,6 +174,8 @@ Welcome to the **Awesome-Agent-Hallucinations** repository! This repository is a
 * **Camel: Communicative agents for" mind" exploration of large language model society**
 * **Theory of mind for multi-agent collaboration via large language models**
 * **Encouraging divergentthinking in large language models through multi-agent debate**
+* **A Dynamic LLM-Powered Agent Network for Task-Oriented Agent Collaboration**
+* **Merge, ensemble, and cooperate! a survey on collaborative strategies in the era of large language models**
 
 ## :star2:Mitigating Hallucination
 * **Calibrating Verbal Uncertainty as a Linear Feature to Reduce Hallucinations**
@@ -181,6 +192,13 @@ Welcome to the **Awesome-Agent-Hallucinations** repository! This repository is a
 * **When hindsight is not 20/20: Testing limits on reflective thinking in large language models**
 * **Contrastive modality-disentangled learning for multimodal recommendation**
 * **Generative Causality-driven Network for Graph Multi-task Learning**
+* **Advances and challenges in foundation agents: From brain-inspired intelligence to evolutionary, collaborative, and safe systems**
+* **Mitigating hallucination in large multi-modal models via robust instruction tuning**
+* **Reducing hallucinations in large vision-language models via latent space steering**
+* **Visual-rft: Visual reinforcement fine-tuning**
+* **Agentauditor: Human-level safety and security evaluation for llm agents**
 
 ## :star2:Detecting Hallucination
 * **Lettucedetect: A hallucination detection framework for rag applications**
+* **Enhancing Mathematical Reasoning in Large Language Models with Self-Consistency-Based Hallucination Detection**
+* **SEVADE: Self-Evolving Multi-Agent Analysis with Decoupled Evaluation for Hallucination-Resistant Irony Detection**
